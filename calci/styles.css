@@ -1,0 +1,115 @@
+form{
+    text-align: center;
+    margin-top: 100px;
+   
+}
+.button-up{
+    text-align: center;
+    margin-top: 30px;
+  
+}
+.io{
+    font-size: 16px;
+    margin-top: 20px;
+    height:30px;
+}
+.noi{
+    width:150px;
+    font-size: 30px;
+    padding: 5px;
+    height:50px;
+    background-color: transparent;
+    color:white;
+}
+#so{
+    font-size: 30px;
+    padding: 5px;
+    height:50px;
+    width:50px;
+    background-color: transparent;
+    color:white;
+}
+#soo{
+    font-size: 20px;
+    padding: 10px;
+    height:50px;
+    width:50px;
+    margin-top:-2000px;
+    background-color: transparent;
+    color:white;
+}
+
+
+.button-mid{
+    text-align: center;
+    margin-top: 15px;
+}
+#yo{
+    font-size: 30px;
+    padding: 13px;
+    height:50px;
+    width:50px;
+    background-color: transparent;
+    color:white;
+}
+.button-middle{
+    text-align: center;
+    margin-top: 15px;
+    
+}
+#midd{
+    font-size: 30px;
+    padding: 13px;
+    height:50px;
+    width:50px;
+    background-color: transparent;
+    color:white;
+}
+.second-last{
+    text-align: center;
+    margin-top: 15px;
+}
+#sec-last{
+    font-size: 30px;
+    padding: 13px;
+    height:50px;
+    width:50px;
+    background-color: transparent;
+    color:white;
+}
+.last{
+    text-align: center;
+    margin-top: 15px;
+}
+#lastt{
+    font-size: 30px;
+    padding: 13px;
+    height:50px;
+    width:50px;
+    background-color: transparent;
+    color:white;
+}
+#lasttt{
+    font-size: 30px;
+    padding: 13px;
+    height:50px;
+    width:100px;
+    background-color: transparent;
+    color:white;
+}
+#main{
+    border-radius: 25px;
+    border-color: black;
+    height:440px;
+    width:250px;
+    background-color: black;
+   margin-left: 500px;
+   margin-top: -20px;
+  
+}
+html{
+    background-color: #E4E9FD;
+    background:linear-gradient(65deg, #A683E3 , #E4E9FD );
+   
+    min-height: 595px;
+}
