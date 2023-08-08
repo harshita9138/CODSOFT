@@ -1,0 +1,378 @@
+/* .main{
+    background-color: #78C1F3;
+    margin:0;
+    padding: 0;
+    height:100%;
+  } */
+  img{
+    height:40px;
+    width:40px;
+    margin-left:40px;
+    margin-top:30px;
+    
+  }
+  .magnify{
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: -30px;
+    
+  }
+  .trending{
+    margin-top:30px;
+  }
+  body {
+    background-color: #B0DAFF;
+    /* overflow: hidden;
+    margin: 0;
+    padding: 0; */
+  }
+.main{
+    background-color: #FFD3B0;
+    height:540px;
+    width:1210px;
+   margin-left:30px;
+   margin-right:30px;
+   margin-top:30px;
+   margin-bottom: 30px;
+  border-radius:30px;
+    
+}
+H1{
+    font-weight: 300%;
+    
+}
+a{
+ margin-top:-55px;
+ margin-left:30px;
+ margin-right:25px;
+ 
+  
+}
+.switchyes{
+  margin-left: 75px;
+}
+.hero{
+    padding-left:70px;
+    padding-top: 40px;
+    font-family: "Arial, sans-serif";
+    color:#6E260E;
+}
+p{
+    margin-top:-10px;
+    margin-left:30px;
+}
+.nav-item{
+    color:#6E260E;
+}
+#btn{
+    margin-right:35px;
+    margin-top:-70px; 
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Georgia;
+    color: #ffffff;
+    font-size: 16px; 
+        background: #b87333;
+        padding: 10px 20px 10px 20px;
+        text-decoration: none;
+        border: none;
+      }
+      
+      .btn:hover {
+        text-decoration: none;
+      }
+#search-bar{
+  height: 60px;
+  width: 500px;
+  border-radius: 30px;
+  background-color: #f7f5e0;
+  border:none;
+  text-decoration-color:#FFD3B0 ;
+
+}
+::placeholder{
+  color:#FFD3B0;
+  padding:50px;
+}
+.buttonset{
+  margin-left:400px;
+  margin-top:-40px;
+  
+}
+
+   .yes{
+    margin-top: 30px;
+   }    
+   #circle{
+    height:200px;
+    width:200px;
+    border-radius: 100% 0 0 0;
+    background-color:black;
+    rotate:90deg;
+    margin-top:-96px;
+   margin-left: -47px; 
+    background-color: #B0DAFF;
+   }     
+   #circlee{
+    height:200px;
+    width:200px;
+    border-radius: 100% 0 0 0;
+    background-color:black;
+    
+    margin-top:-80px;
+   margin-left: 950px; 
+    background-color: #B0DAFF;
+   }  
+   .button {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #6E260E;
+    font-size: 18px;
+    padding: 10px 20px 10px 20px;
+    border: solid #6E260E 2px;
+    text-decoration: none;
+    background-color: #FFD3B0;
+    margin-top:-5px;
+  }
+  .container {
+    width: 150px;
+    height: 150px;
+    position: relative;
+    margin: 30px;
+  }
+  
+  .fancy{
+    height:270px;
+    width:270px;
+    border-radius: 39% 61% 73% 27% / 43% 44% 56% 57% ;
+       
+        background-color: #b87333;
+    margin-top: -50px;
+    z-index: 9;
+    margin-top: -420px;
+    margin-left: 770px;
+  }
+  .cake2{
+    height: 240px;
+width: 240px;
+object-fit: cover;
+margin-left:10px;
+margin-top: 20px;
+border-radius: 39% 61% 73% 27% / 43% 44% 56% 57% ;
+  }
+  .btn:hover {
+    text-decoration: none;
+  }
+  .cake{
+    border-radius: 50%;
+    margin-left:-325px;
+    margin-top:-1510px;
+    height:240px;
+    width:240px;
+    rotate:300deg;
+  }
+  footer{
+    text-align: center;
+    margin-top: -30px;
+ 
+  }
+  .magnify{
+ margin-bottom: 30px;
+  }
+  .caketasty{
+    height:350px;
+    width:350px;
+  
+  }
+  .cakess{
+   margin-left:130px;
+   color:Gray;
+  }
+  .pclass{
+    color:grey;
+  }
+  .manage{
+    display: flex;
+  }
+  .managing{
+    display: flex;
+  }
+  .caketasty{
+      
+      opacity: 1; 
+    } 
+    
+    .caketasty:hover { 
+      opacity: 0.6; 
+    }
+  .about{
+    margin-left:38px;
+    margin-top: 40px;
+  }
+  .ab{
+    height:400px;
+    width:1180px;
+   opacity: 1;
+  }
+  .ab:hover{
+    opacity: 0.8;
+  }
+  .para{
+    margin-top: 20px;
+    color:gray;
+    
+  }
+  .side{
+    display: flex;
+  }
+  .shopnow{
+    margin-left: 140px;
+    margin-bottom: -110px;
+    -webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0px;
+  }
+  .Signature{
+    margin-left:20px;
+  }
+ .footer{
+ 
+  width:5px;
+  margin-left:600px;
+  margin-top:100px;
+ }
+ .h1con{
+  margin-left:30px;
+ }
+ .label{
+  margin-left:30px;
+ }
+ .btnnn {
+  -webkit-border-radius: 0;
+  -moz-border-radius: 0;
+  border-radius: 0px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  background: #000000;
+  padding: 15px 40px 15px 30px;
+  text-decoration: none;
+}
+
+.btnnn:hover {
+  text-decoration: none;
+}
+.section{
+  margin-top:100px;
+  display: flex;
+}
+.hr{
+  flex: 1;
+  border-width: 5px;
+  color: rgb(7, 7, 114);
+}
+.no{
+  color:#6E260E;
+  margin-left: 60px;
+  margin-top: -10px;
+
+}
+.side{
+  margin-left: 10px;
+  flex:2;
+}
+.parasara{
+  margin-top:20px;
+  margin-left:200px;
+  line-height: 5px;
+  color: gray;
+}
+.set{
+  border-radius: 25px;
+  margin-left: 10px;
+  margin-top: 50px;
+}
+.soso{
+  margin-top:40px;
+}
+.cakess{
+  margin-top: 20px;
+}
+.noway{
+  padding-top:-40px;
+  margin-left: -19500px;
+}
+.sections{
+  display:flex;
+  margin-top:600px;
+  margin-left:-620px;
+}
+.hrr{
+  flex: 1;
+  border-width: 2px;
+  color: rgb(7, 7, 114);
+}
+.noo{
+  color:#6E260E;
+  margin-left: -40px;
+  margin-top:-50px;
+  display: blo;
+ 
+}
+.white-section{
+  margin-top:50px;
+  margin-left:-550px;
+  background-color: white;
+  padding:10px;
+ 
+}
+.noway{
+  margin-top: 5000px;
+}
+.soni {
+  -webkit-border-radius: 60;
+  -moz-border-radius: 60;
+  border-radius: 60px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 25px;
+        background: #b87333;
+      
+  padding: 15px 60px 15px 60px;
+  text-decoration: none;
+}
+
+.soni:hover {
+  text-decoration: none;
+}
+.sor{
+  margin-top:550px;
+  margin-left:-650px;
+}
+
+.height{
+ 
+  color:gray;
+  border-width: 2px;
+  border-radius: 50%;
+  margin-left:-500px;
+  margin-top: -20px;
+}
+.best{
+  color:#6E260E;
+  margin-top:30px;
+}
+.try{
+  height:400px;
+  width:1100px;
+  margin-left:-450px;
+  border-radius: 25px;
+} 
+.abcd{
+  margin-left:-450px;
+  margin-top: 20px;
+  color:gray;
+}
